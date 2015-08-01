@@ -1,0 +1,18 @@
+{
+  "name": "atom-dark-fusion-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Flat and color balanced dark theme for maximum readability",
+  "keywords": [
+    "syntax",
+    "balanced",
+    "fusion",
+    "theme"
+  ],
+  "repository": "https://github.com/maxgraey/atom-dark-fusion-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "readmeFilename": "README.md"
+}
