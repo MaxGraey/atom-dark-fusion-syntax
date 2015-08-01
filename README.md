@@ -1,5 +1,21 @@
-# atom-fusion-syntax theme
+Dark Fusion Syntax for Atom
+===========================
 
-A short description of your theme.
+>How to install syntax theme:
+>```
+>    apm install atom-dark-fusion-syntax
+>```
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+Flat and color balanced dark syntax theme for maximum readability for Atom Editor
+
+#### JavaScript syntax (with Nucleus Dark UI)
+
+![javascript screenshot](https://github.com/MaxGraey/atom-dark-fusion-syntax/blob/master/screenshots/js.png)
+
+#### HTML syntax
+
+![html screenshot](https://github.com/MaxGraey/atom-dark-fusion-syntax/blob/master/screenshots/html.png)
+
+#### JSON syntax
+
+![json screenshot](https://github.com/MaxGraey/atom-dark-fusion-syntax/blob/master/screenshots/json.png)
