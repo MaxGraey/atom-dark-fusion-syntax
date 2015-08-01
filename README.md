@@ -10,12 +10,12 @@ Flat and color balanced dark syntax theme for maximum readability for Atom Edito
 
 #### JavaScript syntax (with Nucleus Dark UI)
 
-![javascript screenshot](/screenshots/js.png)
+![javascript screenshot](https://raw.githubusercontent.com/MaxGraey/atom-dark-fusion-syntax/master/screenshots/js.png)
 
 #### HTML syntax
 
-![html screenshot](screenshots/html.png)
+![html screenshot](https://raw.githubusercontent.com/MaxGraey/atom-dark-fusion-syntax/master/screenshots/html.png)
 
 #### JSON syntax
 
-![json screenshot](screenshots/json.png)
+![json screenshot](https://raw.githubusercontent.com/MaxGraey/atom-dark-fusion-syntax/master/screenshots/json.png)
