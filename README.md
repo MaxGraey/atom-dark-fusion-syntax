@@ -1,5 +1,5 @@
-Dark Fusion Syntax for Atom
-===========================
+Dark Fusion Syntax
+==================
 
 >How to install syntax theme:
 >```
