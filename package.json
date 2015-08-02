@@ -4,10 +4,11 @@
   "version": "0.2.2",
   "description": "Flat and color balanced dark theme for maximum readability",
   "keywords": [
-    "syntax",
-    "balanced",
     "fusion",
-    "theme"
+    "dark",
+    "syntax",
+    "theme",
+    "balanced"
   ],
   "repository": "https://github.com/maxgraey/atom-dark-fusion-syntax",
   "license": "MIT",
