@@ -1,3 +1,6 @@
+## 0.2.3
+* Improved less/css style highlight
+
 ## 0.2.2
 * Fix screenshots remote pathes
 

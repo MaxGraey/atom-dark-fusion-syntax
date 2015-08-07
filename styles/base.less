@@ -136,6 +136,10 @@ atom-text-editor .search-results .marker.current-result .region,
     /*color: @syntax-text-color;*/
     color: @light-orange;
   }
+
+  &.other {
+      color: @blue;
+  }
 }
 
 .invalid.illegal {
@@ -204,6 +208,10 @@ atom-text-editor .search-results .marker.current-result .region,
     color: darken(@red, 10%);
   }
 
+  &.terminator,
+  &.key-value {
+      color: @light-orange;
+  }
 }
 
 .support {
@@ -216,6 +224,10 @@ atom-text-editor .search-results .marker.current-result .region,
 
     &.any-method {
       color: @very-light-gray;
+    }
+
+    &.misc {
+      color: @orange;
     }
   }
 }
