@@ -1,4 +1,4 @@
-## 0.2.3
+## 0.2.4
 * Improved less/css style highlight
 
 ## 0.2.2
