@@ -333,6 +333,23 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 }
 
+.source.glsl {
+  .storage {
+    &.modifier {
+        color: @blue;
+    }
+  }
+  .support {
+    &.function {
+      color: @blue;
+    }
+
+    &.variable {
+      color: @orange;
+    }
+  }
+}
+
 atom-text-editor[mini] .scroll-view,
 :host([mini]) .scroll-view {
   padding-left: 1px;

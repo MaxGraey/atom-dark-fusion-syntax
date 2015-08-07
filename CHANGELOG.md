@@ -1,5 +1,8 @@
+## 0.2.5
+* Improved GLSL style highlight
+
 ## 0.2.4
-* Improved less/css style highlight
+* Improved Less/CSS style highlight
 
 ## 0.2.2
 * Fix screenshots remote pathes
