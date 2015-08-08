@@ -1,9 +1,9 @@
 ## 0.2.5
-* Improved GLSL style highlight
+* Improved GLSL style of highlight
 * Improved CoffeeScript highlight
 
 ## 0.2.4
-* Improved Less/CSS style highlight
+* Improved Less/CSS style of highlight
 
 ## 0.2.2
 * Fix screenshots remote pathes
