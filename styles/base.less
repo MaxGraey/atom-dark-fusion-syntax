@@ -194,7 +194,8 @@ atom-text-editor .search-results .marker.current-result .region,
     }
 
     &.tag {
-        color: @purple;
+        // color: @purple;
+        color: saturate(spin(darken(@blue, 12%), 5), 12%);
     }
 
     &.bold {
@@ -242,7 +243,8 @@ atom-text-editor .search-results .marker.current-result .region,
     color: #dedbdb;
   }
 
-  &.name.class, &.name.type.class {
+  &.name.class,
+  &.name.type.class {
     color: @light-orange;
   }
 
@@ -251,7 +253,7 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 
   &.name.tag {
-    color: @flatgreen;
+    color: @blue;
   }
 
   &.other.attribute-name {
