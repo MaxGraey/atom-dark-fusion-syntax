@@ -1,4 +1,4 @@
-Dark Fusion Syntax
+![Dark Fusion Syntax](./screenshots/logo.png)
 ==================
 
 >How to install syntax theme:
