@@ -1,6 +1,6 @@
 ## 0.2.5
 * Improved GLSL style highlight
-* Improved CoffeScript highlight
+* Improved CoffeeScript highlight
 
 ## 0.2.4
 * Improved Less/CSS style highlight
