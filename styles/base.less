@@ -260,7 +260,7 @@ atom-text-editor .search-results .marker.current-result .region,
     color: @blue;
 
     &.id {
-      color: @very-light-gray;
+      color: @light-orange;
     }
   }
 }
@@ -362,6 +362,14 @@ atom-text-editor .search-results .marker.current-result .region,
       color: @light-orange;
     }
   }
+}
+
+.xhtml,
+.sgml,
+.html {
+    &.doctype {
+        color: @orange;
+    }
 }
 
 atom-text-editor[mini] .scroll-view,
