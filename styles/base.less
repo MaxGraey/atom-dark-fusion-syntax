@@ -260,6 +260,7 @@ atom-text-editor .search-results .marker.current-result .region,
     color: @blue;
 
     &.id {
+      //color: @very-light-gray;
       color: @light-orange;
     }
   }
@@ -369,6 +370,20 @@ atom-text-editor .search-results .marker.current-result .region,
 .html {
     &.doctype {
         color: @orange;
+    }
+}
+
+.shell {
+    &.builtin {
+        &.function {
+            color: @light-orange;
+        }
+    }
+
+    &.definition {
+        &.variable {
+            color: @orange;
+        }
     }
 }
 
