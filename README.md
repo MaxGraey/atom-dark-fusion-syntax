@@ -1,4 +1,4 @@
-![Dark Fusion Syntax](./screenshots/logo.png)
+Dark Fusion Syntax
 ==================
 
 Flat and color balanced dark syntax theme for maximum readability for Atom Editor
