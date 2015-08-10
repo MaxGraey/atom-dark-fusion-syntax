@@ -1,13 +1,30 @@
 ![Dark Fusion Syntax](./screenshots/logo.png)
 ==================
 
->How to install syntax theme:
+Flat and color balanced dark syntax theme for maximum readability for Atom Editor
+
+### How to install syntax theme
 >```
 >    apm install atom-dark-fusion-syntax
 >```
 
-Flat and color balanced dark syntax theme for maximum readability for Atom Editor
 
+---
+Battletested
+------------
+
+- ** JavaScript **
+- ** CoffeeScript **
+- ** [React/JSX](https://atom.io/packages/react) **
+- ** HTML **
+- ** CSS / Less **
+- ** JSON / CSON **
+- ** [GLSL](https://atom.io/packages/language-glsl) **
+- ** [Dot Files](https://atom.io/packages/language-dots) **
+- ** Others **
+
+
+---
 #### JavaScript syntax (with Nucleus Dark UI)
 
 ![javascript screenshot](https://raw.githubusercontent.com/MaxGraey/atom-dark-fusion-syntax/master/screenshots/js.png)
