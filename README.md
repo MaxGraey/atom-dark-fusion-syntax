@@ -13,15 +13,15 @@ Flat and color balanced dark syntax theme for maximum readability for Atom Edito
 Battletested
 ------------
 
-- ** JavaScript **
-- ** CoffeeScript **
-- ** [React/JSX](https://atom.io/packages/react) **
-- ** HTML **
-- ** CSS / Less **
-- ** JSON / CSON **
-- ** [GLSL](https://atom.io/packages/language-glsl) **
-- ** [Dot Files](https://atom.io/packages/language-dots) **
-- ** Others **
+- JavaScript
+- CoffeeScript
+- [React/JSX](https://atom.io/packages/react)
+- HTML
+- CSS / Less
+- JSON / CSON
+- [GLSL](https://atom.io/packages/language-glsl)
+- [Dot Files](https://atom.io/packages/language-dots)
+- Others
 
 
 ---
