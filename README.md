@@ -15,6 +15,7 @@ Battletested
 
 - JavaScript
 - CoffeeScript
+- TypeScript **(New!)**
 - [React/JSX](https://atom.io/packages/react)
 - HTML
 - CSS / Less
