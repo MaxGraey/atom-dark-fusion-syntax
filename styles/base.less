@@ -362,6 +362,44 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 }
 
+.source.ts {
+  .storage {
+    &.type {
+      color: @blue;
+    }
+  }
+
+  .entity {
+    &.name {
+      color: @blue;
+
+      &.function {
+        color: #dedbdb;
+      }
+    }
+
+    &.instance {
+      color: @light-orange;
+    }
+
+    &.inherited-class {
+      color: @light-orange;
+    }
+  }
+
+  .parameter {
+    &.function {
+      color: @very-light-gray;
+    }
+  }
+
+  .language {
+    &.variable {
+      color: @blue;
+    }
+  }
+}
+
 .coffee {
   &.support {
     &.function {
