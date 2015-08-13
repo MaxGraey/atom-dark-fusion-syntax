@@ -1,3 +1,15 @@
+## 0.6.0
+* Improved syntax on JavaScript ES6
+
+## 0.5.0
+* Improved color scheme
+
+## 0.4.0
+* Improved color scheme
+
+## 0.3.0
+* New syntaxes
+
 ## 0.2.5
 * Improved GLSL style of highlight
 * Improved CoffeeScript highlight

@@ -14,6 +14,7 @@ Battletested
 ------------
 
 - JavaScript
+- Babel ES6 JavaScript **(New!)**
 - CoffeeScript
 - TypeScript **(New!)**
 - [React/JSX](https://atom.io/packages/react)
