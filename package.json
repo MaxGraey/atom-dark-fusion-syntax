@@ -1,7 +1,7 @@
 {
   "name": "atom-dark-fusion-syntax",
   "theme": "syntax",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Flat and color balanced dark theme for maximum readability",
   "keywords": [
     "fusion",
