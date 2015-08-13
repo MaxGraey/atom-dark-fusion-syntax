@@ -190,7 +190,8 @@ atom-text-editor .search-results .marker.current-result .region,
       color: @orange;
   }
 
-  &.this {
+  &.this,
+  &.super {
       color: @blue;
   }
 }
@@ -214,6 +215,10 @@ atom-text-editor .search-results .marker.current-result .region,
 
   &.other.link {
     color: @red;
+  }
+
+  &.unquoted.js {
+    color: @light-orange;
   }
 }
 

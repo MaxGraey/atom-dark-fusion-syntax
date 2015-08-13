@@ -1,3 +1,6 @@
+## 0.6.2
+* Fix some highlights in JavaScript ES6
+
 ## 0.6.0
 * Improved syntax on JavaScript ES6
 
