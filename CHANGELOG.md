@@ -1,3 +1,6 @@
+## 0.7.0
+* Shift backgroung to tinted color
+
 ## 0.6.2
 * Fix some highlights in JavaScript ES6
 
