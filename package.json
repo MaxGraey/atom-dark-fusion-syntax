@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxgraey/atom-dark-fusion-syntax"
+    "url": "git+https://github.com/maxgraey/atom-dark-fusion-syntax.git"
   },
   "license": "MIT",
   "engines": {
@@ -26,10 +26,10 @@
     "url": "https://github.com/maxgraey/atom-dark-fusion-syntax/issues"
   },
   "homepage": "https://github.com/maxgraey/atom-dark-fusion-syntax",
-  "_id": "atom-dark-fusion-syntax@0.7.0",
+  "_id": "atom-dark-fusion-syntax@1.0.1",
   "_shasum": "6a1b890d3660a207ee4711c87cb472fe905a08ae",
-  "_resolved": "file:../d-115715-12013-i50oqx/package.tgz",
-  "_from": "../d-115715-12013-i50oqx/package.tgz",
+  "_resolved": "file:../d-115102-8050-9e9pqg/package.tgz",
+  "_from": "../d-115102-8050-9e9pqg/package.tgz",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],

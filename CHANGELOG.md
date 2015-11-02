@@ -1,3 +1,6 @@
+## 1.0.2
+* Fix domination green color in some moments
+
 ## 1.0.0
 * Improved color scheme and background color
 * Add ruby syntax
