@@ -1,3 +1,9 @@
+## 1.0.0
+* Improved color scheme and background color
+* Add ruby syntax
+* Add C#/Mono syntax
+* Improved python syntax
+
 ## 0.7.0
 * Shift backgroung to tinted color
 

@@ -14,9 +14,12 @@ Battletested
 ------------
 
 - JavaScript
-- Babel ES6 JavaScript **(New!)**
+- Babel ES6 JavaScript
 - CoffeeScript
-- TypeScript **(New!)**
+- TypeScript
+- Python
+- Ruby **(New!)** (Thanks to joseramonc)
+- CSharp/Mono **(New!)**
 - [React/JSX](https://atom.io/packages/react)
 - HTML
 - CSS / Less
