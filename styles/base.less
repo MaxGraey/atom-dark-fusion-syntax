@@ -473,6 +473,33 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 }
 
+
+.c {
+    &.dot-access {
+        color: @syntax-text-color;
+    }
+}
+
+.objc {
+    &.punctuation {
+        &.scope {
+            color: @syntax-text-color;
+        }
+    }
+
+    &.support {
+        &.function {
+            color: @light-orange;
+        }
+    }
+}
+
+.objcpp {
+    .support {
+        color: @light-orange;
+    }
+}
+
 .cs {
     &.meta {
         &.body {

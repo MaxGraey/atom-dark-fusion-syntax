@@ -18,8 +18,9 @@ Battletested
 - CoffeeScript
 - TypeScript
 - Python
-- Ruby **(New!)** (Thanks to joseramonc)
-- CSharp/Mono **(New!)**
+- Ruby (Thanks to joseramonc)
+- Objective-C **(New!)**
+- CSharp/Mono
 - [React/JSX](https://atom.io/packages/react)
 - HTML
 - CSS / Less

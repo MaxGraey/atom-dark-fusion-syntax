@@ -1,7 +1,7 @@
 {
   "name": "atom-dark-fusion-syntax",
   "theme": "syntax",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Flat and color balanced dark theme for maximum readability",
   "keywords": [
     "fusion",
@@ -26,10 +26,10 @@
     "url": "https://github.com/maxgraey/atom-dark-fusion-syntax/issues"
   },
   "homepage": "https://github.com/maxgraey/atom-dark-fusion-syntax",
-  "_id": "atom-dark-fusion-syntax@1.0.1",
+  "_id": "atom-dark-fusion-syntax@1.0.2",
   "_shasum": "6a1b890d3660a207ee4711c87cb472fe905a08ae",
-  "_resolved": "file:../d-115102-8050-9e9pqg/package.tgz",
-  "_from": "../d-115102-8050-9e9pqg/package.tgz",
+  "_resolved": "file:../d-115102-8327-12j8gk4/package.tgz",
+  "_from": "../d-115102-8327-12j8gk4/package.tgz",
   "_atomModuleCache": {
     "version": 1,
     "dependencies": [],

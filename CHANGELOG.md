@@ -1,3 +1,6 @@
+## 1.1.0
+* Add Objective-C/Objective-C++ syntax
+
 ## 1.0.2
 * Fix domination green color in some moments
 
