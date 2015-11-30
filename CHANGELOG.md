@@ -11,7 +11,7 @@
 * Improved python syntax
 
 ## 0.7.0
-* Shift backgroung to tinted color
+* Shift background to tinted color
 
 ## 0.6.2
 * Fix some highlights in JavaScript ES6
