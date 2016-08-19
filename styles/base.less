@@ -471,6 +471,12 @@ atom-text-editor .search-results .marker.current-result .region,
   &.doctype {
     color: @orange;
   }
+
+  &.custom {
+    &.elements {
+      color: @light-orange;
+    }
+  }
 }
 
 
@@ -528,6 +534,58 @@ atom-text-editor .search-results .marker.current-result .region,
             &.parameter {
                 &.function {
                     color: @syntax-text-color;
+                }
+            }
+        }
+    }
+}
+
+.uno {
+    &.source {
+        &.keyword {
+            color: @cyan;
+        }
+
+        &.meta {
+            &.class {
+                &.body {
+                    color: @syntax-text-color;
+                }
+
+                &.identifier {
+                    .entity {
+                        &.name {
+                            color: @syntax-text-color;
+                        }
+                    }
+                }
+
+                .storage {
+                    &.type {
+                        color: @light-orange;
+                    }
+                }
+            }
+            &.method {
+                &.return-type {
+                    color: @light-orange;
+                }
+            }
+            &.method-call {
+                .meta {
+                    &.method {
+                        color: @light-orange;
+                    }
+                }
+            }
+
+            &.meta {
+                .meta {
+                    &.method {
+                        &.annotation {
+                            color: @light-orange;
+                        }
+                    }
                 }
             }
         }

@@ -1,3 +1,6 @@
+## 1.2.0
+* Add Fuse's Uno/UX syntax
+
 ## 1.1.0
 * Add Objective-C/Objective-C++ syntax
 
