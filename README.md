@@ -19,8 +19,9 @@ Battletested
 - TypeScript
 - Python
 - Ruby (Thanks to joseramonc)
-- Objective-C **(New!)**
+- Objective-C
 - CSharp/Mono
+- Uno/UX **(New!)**
 - [React/JSX](https://atom.io/packages/react)
 - HTML
 - CSS / Less
