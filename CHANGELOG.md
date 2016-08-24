@@ -1,3 +1,6 @@
+## 1.2.1
+* Improve coffee syntax
+
 ## 1.2.0
 * Add Fuse's Uno/UX syntax
 
