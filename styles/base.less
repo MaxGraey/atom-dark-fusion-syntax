@@ -1,5 +1,11 @@
 @import "syntax-variables";
 @import "ruby";
+@import "coffee";
+
+atom-text-editor[mini] .scroll-view,
+:host([mini]) .scroll-view {
+  padding-left: 1px;
+}
 
 atom-text-editor, :host {
   background-color: @syntax-background-color;
@@ -95,7 +101,7 @@ atom-text-editor .search-results .marker.current-result .region,
     color: @light-orange;
 
     &.new {
-        color: @blue;
+      color: @blue;
     }
   }
 
@@ -184,16 +190,16 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 
   &.type {
-      color: @light-orange;
+    color: @light-orange;
   }
 
   &.prototype {
-      color: @orange;
+    color: @orange;
   }
 
   &.this,
   &.super {
-      color: @blue;
+    color: @blue;
   }
 }
 
@@ -457,14 +463,6 @@ atom-text-editor .search-results .marker.current-result .region,
   }
 }
 
-.coffee {
-  &.support {
-    &.function {
-      color: @light-orange;
-    }
-  }
-}
-
 .xhtml,
 .sgml,
 .html {
@@ -616,9 +614,4 @@ atom-text-editor .search-results .marker.current-result .region,
 
 .regexp {
   color: @orange !important;
-}
-
-atom-text-editor[mini] .scroll-view,
-:host([mini]) .scroll-view {
-  padding-left: 1px;
 }
