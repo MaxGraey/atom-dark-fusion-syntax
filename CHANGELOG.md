@@ -1,3 +1,6 @@
+## 1.3.1
+* Fix Ruby interpolated strings
+
 ## 1.2.1
 * Improve coffee syntax
 
