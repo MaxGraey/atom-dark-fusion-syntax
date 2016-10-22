@@ -1,5 +1,12 @@
 .source.ruby {
 
+  .punctuation.section.scope.ruby {
+    color: @very-light-gray;
+  }
+  .meta.embedded {
+    color: @light-orange;
+  }
+
   .variable.instance.ruby,
   .meta.embedded .variable.instance {
     color: @light-orange;
@@ -10,11 +17,8 @@
   }
 
   .constant.symbol.hashkey {
-
-    &,
-    .punctuation.definition.constant.hashkey.ruby {
+    &,.punctuation.definition.constant.hashkey.ruby {
       color: @red;
     }
   }
-
 }
