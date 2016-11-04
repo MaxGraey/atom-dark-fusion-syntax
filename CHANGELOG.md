@@ -1,3 +1,8 @@
+## 1.3.3
+* Change color for function of .less files
+* Fix variable of modules
+* Fix inheritance class
+
 ## 1.3.1
 * Fix Ruby interpolated strings
 
