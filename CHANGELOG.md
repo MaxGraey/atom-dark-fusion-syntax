@@ -1,3 +1,8 @@
+## 1.4.0
+* Slightly change color theme
+* fix some issues in css
+
+
 ## 1.3.3
 * Change color for function of .less files
 * Fix variable of modules
