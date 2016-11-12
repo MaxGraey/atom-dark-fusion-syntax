@@ -1,3 +1,6 @@
+## 1.5.1
+* Add Java syntax highlight
+
 ## 1.4.0
 * Slightly change color theme
 * fix some issues in css
