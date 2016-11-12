@@ -17,11 +17,12 @@ Battletested
 - Babel ES6 JavaScript
 - CoffeeScript
 - TypeScript
+- Java **(New!)**
 - Python
 - Ruby (Thanks to joseramonc)
 - Objective-C
 - CSharp/Mono
-- Uno/UX **(New!)**
+- Uno/UX
 - [React/JSX](https://atom.io/packages/react)
 - HTML
 - CSS / Less

@@ -560,6 +560,30 @@ atom-text-editor .search-results .marker.current-result .region,
     }
 }
 
+.java {
+    &.source {
+        .variable {
+            &.definition {
+                color: @very-light-gray;
+            }
+        }
+
+        .meta {
+            &.class {
+                &.meta.body {
+                    color: @very-light-gray;
+                }
+            }
+
+            &.package {
+                .storage.modifier {
+                    color: @light-orange;
+                }
+            }
+        }
+    }
+}
+
 .uno {
     &.source {
         &.keyword {
