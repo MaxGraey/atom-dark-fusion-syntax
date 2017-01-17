@@ -1,3 +1,7 @@
+## 2.0.0
+* Compatible with Atom >= 1.13.0
+* Improve jsx syntax
+
 ## 1.5.1
 * Add Java syntax highlight
 
