@@ -18,7 +18,7 @@
   },
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
+    "atom": ">=1.13.0 <2.0.0"
   },
   "readmeFilename": "README.md",
   "readme": "Dark Fusion Syntax\n==================\n\nFlat and color balanced dark syntax theme for maximum readability for Atom Editor\n\n### How to install syntax theme\n>```\n>    apm install atom-dark-fusion-syntax\n>```\n\n\n---\nBattletested\n------------\n\n- JavaScript\n- Babel ES6 JavaScript **(New!)**\n- CoffeeScript\n- TypeScript **(New!)**\n- [React/JSX](https://atom.io/packages/react)\n- HTML\n- CSS / Less\n- JSON / CSON\n- [GLSL](https://atom.io/packages/language-glsl)\n- [Dot Files](https://atom.io/packages/language-dots)\n- Others\n\n\n---\n#### JavaScript syntax (with Nucleus Dark UI)\n\n![javascript screenshot](https://raw.githubusercontent.com/MaxGraey/atom-dark-fusion-syntax/master/screenshots/js.png)\n\n#### HTML syntax\n\n![html screenshot](https://raw.githubusercontent.com/MaxGraey/atom-dark-fusion-syntax/master/screenshots/html.png)\n\n#### JSON syntax\n\n![json screenshot](https://raw.githubusercontent.com/MaxGraey/atom-dark-fusion-syntax/master/screenshots/json.png)\n",
