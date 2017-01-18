@@ -3,6 +3,12 @@ Dark Fusion Syntax
 
 Flat and color balanced dark syntax theme for maximum readability for Atom Editor
 
+
+### Compatible warning!
+
+Latest version use new selectors without shadowed pseuro-selectors.
+If you have ***Atom less then 1.13.0*** don't update to ***Dark Fusion Syntax 2.x***
+
 ### How to install syntax theme
 >```
 >    apm install atom-dark-fusion-syntax
