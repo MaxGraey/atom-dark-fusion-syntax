@@ -181,7 +181,8 @@ atom-text-editor .search-results .syntax--marker.current-result .syntax--region 
       color: @very-light-gray;
     }
 
-    &.syntax--constant {
+    &.syntax--constant,
+    &.syntax--shorthandpropertyname {
       color: @light-orange;
     }
   }
@@ -362,6 +363,11 @@ atom-text-editor .search-results .syntax--marker.current-result .syntax--region 
       color: @light-orange;
     }
   }
+  .syntax--tag.syntax--decorator {
+    .syntax--operator.syntax--decoration {
+       color: @blue;
+    }
+  }
 }
 
 .syntax--none {
@@ -487,7 +493,7 @@ atom-text-editor .search-results .syntax--marker.current-result .syntax--region 
         .syntax--meta.syntax--scope.syntax--tag {
             .syntax--embedded.syntax--expression {
                 .syntax--punctuation.syntax--section {
-                    color: @white;
+                    color: @light-orange;
                 }
             }
             .syntax--meta.syntax--tag {
@@ -499,6 +505,16 @@ atom-text-editor .search-results .syntax--marker.current-result .syntax--region 
                     }
                 }
             }
+        }
+    }
+    .syntax--embedded {
+        .syntax--punctuation.syntax--section {
+            color: @light-orange;
+        }
+    }
+    .syntax--entity.syntax--tag {
+        .syntax--class.syntax--component {
+            color: @blue;
         }
     }
     .syntax--other {
