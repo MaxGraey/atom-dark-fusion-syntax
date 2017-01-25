@@ -507,6 +507,14 @@ atom-text-editor .search-results .syntax--marker.current-result .syntax--region 
             }
         }
     }
+    .syntax--keyword {
+        color: @blue;
+        &.syntax--assignment,
+        &.syntax--accessor,
+        &.syntax--operator {
+            color: @light-orange;
+        }
+    }
     .syntax--embedded {
         .syntax--punctuation.syntax--section {
             color: @light-orange;
