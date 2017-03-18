@@ -1,3 +1,6 @@
+## 2.1.0
+* Update Typescript syntax highlight
+
 ## 2.0.0
 * Compatible with Atom >= 1.13.0
 * Improve jsx syntax

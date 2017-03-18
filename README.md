@@ -26,8 +26,8 @@ Battletested
 - JavaScript
 - Babel ES6 JavaScript
 - CoffeeScript
-- TypeScript
-- Java **(New!)**
+- TypeScript **(Improved!)**
+- Java
 - Python
 - Ruby (Thanks to joseramonc)
 - Objective-C
