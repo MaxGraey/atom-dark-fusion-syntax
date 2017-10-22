@@ -1,6 +1,9 @@
-## 2.2.0
+## 2.3.0
 * Fully refactor internal code for better structure
 * Improve CSS/LESS/SASS styles
+
+## 2.2.0
+* Improve JavaScript/JSX styles
 
 ## 2.1.1
 * Improve CSS/LESS/SASS styles
