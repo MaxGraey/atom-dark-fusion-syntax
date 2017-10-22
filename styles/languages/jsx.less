@@ -1,0 +1,51 @@
+.syntax--source.syntax--jsx {
+	.syntax--es {
+		.syntax--meta.syntax--scope.syntax--tag {
+			.syntax--embedded.syntax--expression {
+				.syntax--punctuation.syntax--section {
+					color: @light-orange;
+				}
+			}
+
+			.syntax--meta.syntax--tag {
+				color: saturate(spin(darken(@blue, 16%), 6), 13%);
+
+				.syntax--embedded.syntax--expression {
+					.syntax--source {
+						color: @very-light-gray;
+					}
+				}
+			}
+		}
+	}
+
+	.syntax--keyword {
+		color: @blue;
+
+		&.syntax--accessor,
+		&.syntax--assignment,
+		&.syntax--operator {
+			color: @light-orange;
+		}
+	}
+
+	.syntax--embedded {
+		.syntax--punctuation.syntax--section {
+			color: @light-orange;
+		}
+	}
+
+	.syntax--entity.syntax--tag {
+		.syntax--class.syntax--component {
+			color: @blue;
+		}
+	}
+
+	.syntax--other {
+		&.syntax--object.syntax--key {
+			.syntax--js-label {
+				color: @very-light-gray;
+			}
+		}
+	}
+}

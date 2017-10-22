@@ -1,0 +1,33 @@
+.syntax--cs {
+	&.syntax--meta {
+		&.syntax--body {
+			color: @syntax-text-color;
+		}
+
+		&.syntax--method,
+		&.syntax--namespace {
+			&.syntax--body {
+				color: @syntax-text-color;
+			}
+			color: @light-orange;
+		}
+
+		&.syntax--keyword {
+			&.syntax--using {
+				color: @light-orange;
+
+				&.syntax--other {
+					color: @cyan;
+				}
+			}
+		}
+
+		.syntax--variable {
+			&.syntax--parameter {
+				&.syntax--function {
+					color: @syntax-text-color;
+				}
+			}
+		}
+	}
+}

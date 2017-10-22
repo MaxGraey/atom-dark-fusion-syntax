@@ -1,0 +1,25 @@
+.syntax--c {
+	&.syntax--dot-access {
+		color: @syntax-text-color;
+	}
+}
+
+.syntax--objc {
+	&.syntax--punctuation {
+		&.syntax--scope {
+			color: @syntax-text-color;
+		}
+	}
+
+	&.syntax--support {
+		&.syntax--function {
+			color: @light-orange;
+		}
+	}
+}
+
+.syntax--objcpp {
+	.syntax--support {
+		color: @light-orange;
+	}
+}

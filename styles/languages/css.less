@@ -1,0 +1,29 @@
+
+.syntax--source.syntax--css {
+  .syntax--entity {
+    &.syntax--tag {
+      color: @blue;
+    }
+    &.syntax--tag.syntax--name {
+      color: @blue;
+    }
+    &.syntax--name {
+      color: @very-light-gray;
+    }
+  }
+
+  .syntax--entity.syntax--attribute-name {
+    color: @light-orange;
+  }
+
+  .syntax--constant:not(.syntax--numeric),
+  .syntax--support.syntax--constant.syntax--property-value {
+    color: @orange;
+  }
+
+  .syntax--function {
+    .syntax--keyword {
+      color: @blue;
+    }
+  }
+}

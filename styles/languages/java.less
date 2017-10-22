@@ -1,0 +1,23 @@
+.syntax--java {
+	&.syntax--source {
+		.syntax--variable {
+			&.syntax--definition {
+				color: @very-light-gray;
+			}
+		}
+
+		.syntax--meta {
+			&.syntax--class {
+				&.syntax--meta.syntax--body {
+					color: @very-light-gray;
+				}
+			}
+
+			&.syntax--package {
+				.syntax--storage.syntax--modifier {
+					color: @light-orange;
+				}
+			}
+		}
+	}
+}

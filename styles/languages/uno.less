@@ -1,0 +1,53 @@
+.syntax--uno {
+	&.syntax--source {
+		&.syntax--keyword {
+			color: @cyan;
+		}
+
+		&.syntax--meta {
+			&.syntax--class {
+				&.syntax--body {
+					color: @syntax-text-color;
+				}
+
+				&.syntax--identifier {
+					.syntax--entity {
+						&.syntax--name {
+							color: @syntax-text-color;
+						}
+					}
+				}
+
+				.syntax--storage {
+					&.syntax--type {
+						color: @light-orange;
+					}
+				}
+			}
+
+			&.syntax--method {
+				&.syntax--return-type {
+					color: @light-orange;
+				}
+			}
+
+			&.syntax--method-call {
+				.syntax--meta {
+					&.syntax--method {
+						color: @light-orange;
+					}
+				}
+			}
+
+			&.syntax--meta {
+				.syntax--meta {
+					&.syntax--method {
+						&.syntax--annotation {
+							color: @light-orange;
+						}
+					}
+				}
+			}
+		}
+	}
+}

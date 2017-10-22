@@ -1,0 +1,31 @@
+
+.syntax--source.syntax--less {
+  .syntax--support.syntax--function {
+    color: @light-orange;
+  }
+
+  .syntax--punctuation.syntax--definition:not(.syntax--comment) {
+    color: @orange;
+  }
+
+  .syntax--at-rule {
+    .syntax--punctuation.syntax--definition.syntax--keyword {
+      color: @blue;
+    }
+  }
+
+  .syntax--variable {
+    color: @very-light-gray;
+    .syntax--punctuation.syntax--definition {
+      color: @blue;
+    }
+  }
+
+  .syntax--entity {
+    color: @blue;
+
+    &.syntax--pseudo-class {
+      color: @blue;
+    }
+  }
+}
